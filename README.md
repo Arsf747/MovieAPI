@@ -49,7 +49,7 @@ movies_api/
 
 **Старт**
 1. Клонирование репозитория
-git clone https://github.com/{username}/movies_api.git
+git clone https://github.com/Arsf747/MovieAPI.git
 2. Установка зависимостей
 pip install -r requirements.txt
 3. Применение миграций
